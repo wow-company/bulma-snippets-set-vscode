@@ -1,0 +1,16 @@
+{
+    "Title":{
+        "prefix":"b_title",
+        "body":[
+            "<h1 class=\"title\">Title</h1>"
+        ],
+        "description":"Basic Title | Bulma"
+    },
+    "Subtitle":{
+        "prefix":"b_subtitle",
+        "body":[
+            "<h2 class=\"subtitle\">Subtitle</h2>"
+        ],
+        "description":"Basic Substile | Bulma"
+    }
+}

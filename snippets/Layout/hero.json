@@ -1,0 +1,16 @@
+{
+    "Hero Basic":{
+        "prefix":"b_hero",
+        "body":[
+            "<section class=\"hero\">\n  <div class=\"hero-body\">\n    <div class=\"container\">\n      <h1 class=\"title\">\n        Hero title\n      </h1>\n      <h2 class=\"subtitle\">\n        Hero subtitle\n      </h2>\n    </div>\n  </div>\n</section>"
+        ],
+        "description":"Basic Hero | Bulma"
+    },
+    "Hero in 3 parts":{
+        "prefix":"b_hero_3",
+        "body":[
+            "<section class=\"hero is-primary is-medium\">\n  <div class=\"hero-head\">\n    \n  </div>\n  <div class=\"hero-body\">\n    \n  </div>\n  <div class=\"hero-foot\">\n   \n  </div>\n</section>"
+        ],
+        "description":"Hero in 3 parts | Bulma"
+    }
+}

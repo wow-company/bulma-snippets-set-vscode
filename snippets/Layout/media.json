@@ -1,0 +1,9 @@
+{
+    "Media Object":{
+        "prefix":"b_media",
+        "body":[
+            "<article class=\"media\">\n  <figure class=\"media-left\">\n    <p class=\"image is-64x64\">\n      \n    </p>\n  </figure>\n  <div class=\"media-content\">\n    <div class=\"content\">\n      \n    </div>\n  </div>\n  <div class=\"media-right\">\n    \n  </div>\n</article>"
+        ],
+        "description":"Basic Media Object | Bulma"
+    }
+}

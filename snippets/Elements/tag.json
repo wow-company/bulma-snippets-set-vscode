@@ -1,0 +1,16 @@
+{
+    "Tag Basic":{
+        "prefix":"b_tag",
+        "body":[
+            "<span class=\"tag\">\n  Tag label\n</span>"
+        ],
+        "description":"Basic Tag | Bulma"
+    },
+    "List of tags":{
+        "prefix":"b_tag_list",
+        "body":[
+            "<div class=\"tags\">\n  <span class=\"tag\">One</span>\n  <span class=\"tag\">Two</span>\n  <span class=\"tag\">Three</span>\n</div>"
+        ],
+        "description":"List of tags | Bulma"
+    }
+}

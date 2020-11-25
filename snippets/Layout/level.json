@@ -1,0 +1,16 @@
+{
+    "Level":{
+        "prefix":"b_level",
+        "body":[
+            "<nav class=\"level\">\n  <div class=\"level-left\">\n    <div class=\"level-item\">\n     \n    </div>\n  </div>\n  \n  <div class=\"level-right\">\n    <div class=\"level-item\">\n     \n    </div>\n  </div>\n</nav>"
+        ],
+        "description":"Basic Level | Bulma"
+    },
+    "Centered level":{
+        "prefix":"b_level_c",
+        "body":[
+            "<nav class=\"level\">\n  <div class=\"level-item has-text-centered\">\n    \n  </div>\n  <div class=\"level-item has-text-centered\">\n    \n  </div>\n  <div class=\"level-item has-text-centered\">\n   \n  </div>\n  <div class=\"level-item has-text-centered\">\n    \n  </div>\n</nav>"
+        ],
+        "description":"Centered Level | Bulma"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Menu":{
+        "prefix":"b_menu",
+        "body":[
+            "<aside class=\"menu\">\n  <p class=\"menu-label\">General</p>\n  <ul class=\"menu-list\">\n    <li><a>Dashboard</a></li>\n    <li><a>Customers</a></li>\n  </ul>\n  <p class=\"menu-label\">Administration</p>\n  <ul class=\"menu-list\">\n    <li><a>Team Settings</a></li>\n    <li>\n      <a class=\"is-active\">Manage Your Team</a>\n      <ul>\n        <li><a>Members</a></li>\n        <li><a>Plugins</a></li>\n        <li><a>Add a member</a></li>\n      </ul>\n    </li>\n    <li><a>Invitations</a></li>\n    <li><a>Cloud Storage Environment Settings</a></li>\n    <li><a>Authentication</a></li>\n  </ul>\n  <p class=\"menu-label\">Transactions</p>\n  <ul class=\"menu-list\">\n    <li><a>Payments</a></li>\n    <li><a>Transfers</a></li>\n    <li><a>Balance</a></li>\n  </ul>\n</aside>\n"
+        ],
+        "description":"Basic Menu | Bulma"
+    }
+    
+}

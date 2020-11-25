@@ -1,0 +1,16 @@
+{
+    "Form Field":{
+        "prefix":"b_form_f",
+        "body":[
+            "<div class=\"field\">\n  <label class=\"label\">Name</label>\n  <div class=\"control\">\n    ${1:Form element}\n  </div>\n</div>\n"
+        ],
+        "description":"Basic Form Field | Bulma"
+    },
+    "Form Field Icons":{
+        "prefix":"b_form_fi",
+        "body":[
+            "<div class=\"field\">\n  <label class=\"label\">Label</label>\n  <div class=\"control has-icons-left has-icons-right\">\n    <input class=\"input\" type=\"text\" />\n    <span class=\"icon is-small is-left\">\n      <i class=\"fas fa-user\"></i>\n    </span>\n    <span class=\"icon is-small is-right\">\n      <i class=\"fas fa-check\"></i>\n    </span>\n  </div>\n  <p class=\"help is-success\">This username is available</p>\n</div>\n"
+        ],
+        "description":"Form Field with icons | Bulma"
+    }
+}

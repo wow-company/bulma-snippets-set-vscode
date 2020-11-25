@@ -1,0 +1,16 @@
+{
+  "Card": {
+    "prefix": "b_card",
+    "body": [
+      "<div class=\"card\">\n  <div class=\"card-image\">\n    <figure class=\"image is-4by3\">\n      <img src=\"https://bulma.io/images/placeholders/1280x960.png\" alt=\"Placeholder image\">\n    </figure>\n  </div>\n  <div class=\"card-content\">\n    <div class=\"media\">\n      <div class=\"media-left\">\n        <figure class=\"image is-48x48\">\n          <img src=\"https://bulma.io/images/placeholders/96x96.png\" alt=\"Placeholder image\">\n        </figure>\n      </div>\n      <div class=\"media-content\">\n        <p class=\"title is-4\">John Smith</p>\n        <p class=\"subtitle is-6\">@johnsmith</p>\n      </div>\n    </div>\n\n    <div class=\"content\">\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit.      Phasellus nec iaculis mauris. <a>@bulmaio</a>\n.      <a href=\"#\">#css</a> <a href=\"#\">#responsive</a>\n      <br>\n      <time datetime=\"2016-1-1\">11:09 PM - 1 Jan 2016</time>\n    </div>\n  </div>\n</div>\n"
+    ],
+    "description": "Basic Card | Bulma"
+  },
+  "Card Footer Header and Footer": {
+    "prefix": "b_card_full",
+    "body": [
+      "<div class=\"card\">\n  <header class=\"card-header\">\n    <p class=\"card-header-title\">\n      Component    </p>\n    <a href=\"#\" class=\"card-header-icon\" aria-label=\"more options\">\n      <span class=\"icon\">\n        <i class=\"fas fa-angle-down\" aria-hidden=\"true\"></i>\n      </span>\n    </a>\n  </header>\n  <div class=\"card-content\">\n    <div class=\"content\">\n      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.      <a href=\"#\">@bulmaio</a>. <a href=\"#\">#css</a> <a href=\"#\">#responsive</a>\n      <br>\n      <time datetime=\"2016-1-1\">11:09 PM - 1 Jan 2016</time>\n    </div>\n  </div>\n  <footer class=\"card-footer\">\n    <a href=\"#\" class=\"card-footer-item\">Save</a>\n    <a href=\"#\" class=\"card-footer-item\">Edit</a>\n    <a href=\"#\" class=\"card-footer-item\">Delete</a>\n  </footer>\n</div>\n"
+    ],
+    "description":"Card with header and footer | Bulma"
+  }
+}

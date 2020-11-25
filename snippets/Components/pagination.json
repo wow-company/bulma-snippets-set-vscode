@@ -1,0 +1,10 @@
+{
+    "Pagination":{
+        "prefix":"b_pagination",
+        "body":[
+            "<nav class=\"pagination\" role=\"navigation\" aria-label=\"pagination\">\n  <a class=\"pagination-previous\">Previous</a>\n  <a class=\"pagination-next\">Next page</a>\n  <ul class=\"pagination-list\">\n    <li>\n      <a class=\"pagination-link\" aria-label=\"Goto page 1\">1</a>\n    </li>\n    <li>\n      <span class=\"pagination-ellipsis\">&hellip;</span>\n    </li>\n    <li>\n      <a class=\"pagination-link\" aria-label=\"Goto page 45\">45</a>\n    </li>\n    <li>\n      <a class=\"pagination-link is-current\" aria-label=\"Page 46\" aria-current=\"page\">46</a>\n    </li>\n    <li>\n      <a class=\"pagination-link\" aria-label=\"Goto page 47\">47</a>\n    </li>\n    <li>\n      <span class=\"pagination-ellipsis\">&hellip;</span>\n    </li>\n    <li>\n      <a class=\"pagination-link\" aria-label=\"Goto page 86\">86</a>\n    </li>\n  </ul>\n</nav>\n"
+        ],
+        "description":"Basic Pagination | Bulma"
+    }
+    
+}

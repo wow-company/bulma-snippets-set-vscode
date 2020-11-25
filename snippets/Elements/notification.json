@@ -1,0 +1,9 @@
+{
+    "Notification":{
+        "prefix":"b_notice",
+        "body":[
+            "<div class=\"notification\">\n  <button class=\"delete\"></button>\n  Lorem ipsum dolor sit amet, consectetur\n  adipiscing elit lorem ipsum dolor. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Sit amet,\n  consectetur adipiscing elit\n</div>"
+        ],
+        "description":"Basic Notification | Bulma"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Delete":{
+        "prefix":"b_delete",
+        "body":[
+            "<a class=\"delete\"></a>"
+        ],
+        "description":"Basic Delete | Bulma"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Icon":{
+        "prefix":"b_icon",
+        "body":[
+            "<span class=\"icon\">\n  <i class=\"fas fa-home\"></i>\n</span>"
+        ],
+        "description":"Basic Icon | Bulma"
+    }
+}

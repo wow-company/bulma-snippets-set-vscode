@@ -1,0 +1,44 @@
+{
+    "Columns":{
+        "prefix":"b_columns",
+        "body":[
+            "<div class=\"columns\">\n  <div class=\"column\">\n    First column\n  </div>\n  <div class=\"column\">\n    Second column\n  </div>\n  <div class=\"column\">\n    Third column\n  </div>\n  <div class=\"column\">\n    Fourth column\n  </div>\n</div>"
+        ],
+        "description":"Four basic columns | Bulma"
+    },
+    "One column":{
+        "prefix":"b_columns_1",
+        "body":[
+            "<div class=\"columns\">\n  <div class=\"column\">\n    First column\n  </div>\n</div>"
+        ],
+        "description":"One basic column | Bulma"
+    },
+    "Two columns":{
+        "prefix":"b_columns_2",
+        "body":[
+            "<div class=\"columns\">\n  <div class=\"column\">\n    First column\n  </div>\n  <div class=\"column\">\n    Second column\n  </div>\n</div>"
+        ],
+        "description":"Two basic columns | Bulma"
+    },
+    "Three columns":{
+        "prefix":"b_columns_3",
+        "body":[
+            "<div class=\"columns\">\n  <div class=\"column\">\n    First column\n  </div>\n  <div class=\"column\">\n    Second column\n  </div>\n  <div class=\"column\">\n    Third column\n  </div>\n  <div class=\"column\">\n</div>"
+        ],
+        "description":"Three basic columns | Bulma"
+    },
+    "Column with offset":{
+        "prefix":"b_columns_o",
+        "body":[
+            "<div class=\"columns\">\n  <div class=\"column is-half is-offset-one-quarter\">\n    Column\n  </div>\n</div>"
+        ],
+        "description":"Column with offset | Bulma"
+    },
+    "Center column":{
+        "prefix":"b_columns_c",
+        "body":[
+            "<div class=\"columns is-centered\">\n  <div class=\"column is-half\">\n    Column\n  </div>\n</div>"
+        ],
+        "description":"Center column | Bulma"
+    }
+}

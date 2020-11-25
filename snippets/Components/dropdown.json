@@ -1,0 +1,10 @@
+{
+    "Dropdown":{
+        "prefix":"b_dropdown",
+        "body":[
+            "<div class=\"dropdown is-active\">\n  <div class=\"dropdown-trigger\">\n    <button class=\"button\" aria-haspopup=\"true\" aria-controls=\"dropdown-menu\">\n      <span>Dropdown button</span>\n      <span class=\"icon is-small\">\n        <i class=\"fas fa-angle-down\" aria-hidden=\"true\"></i>\n      </span>\n    </button>\n  </div>\n  <div class=\"dropdown-menu\" id=\"dropdown-menu\" role=\"menu\">\n    <div class=\"dropdown-content\">\n      <a href=\"#\" class=\"dropdown-item\"> Dropdown item </a>\n      <a class=\"dropdown-item\"> Other dropdown item </a>\n      <a href=\"#\" class=\"dropdown-item is-active\"> Active dropdown item </a>\n      <a href=\"#\" class=\"dropdown-item\"> Other dropdown item </a>\n      <hr class=\"dropdown-divider\" />\n      <a href=\"#\" class=\"dropdown-item\"> With a divider </a>\n    </div>\n  </div>\n</div>\n"
+        ],
+        "description":"Basic Dropdown | Bulma"
+    }
+    
+}

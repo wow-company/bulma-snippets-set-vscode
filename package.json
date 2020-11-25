@@ -1,0 +1,145 @@
+{
+    "name": "bulma-snippets-set",
+    "displayName": "Bulma Snippets Set.",
+    "description": "The extension content all main snippets of Bulma https://bulma.io/",
+    "version": "0.0.1",
+    "publisher": "Dmytro Lobov",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Layout/columns.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Layout/container.json"
+            }
+            ,
+            {
+                "language": "html",
+                "path": "./snippets/Layout/footer.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Layout/hero.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Layout/level.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Layout/media.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Layout/section.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/block.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/box.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/button.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/content.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/delete.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/icon.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/image.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/notification.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/progress_bar.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/table.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/tag.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Elements/title.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/breadcrumb.json"
+            }
+            ,
+            {
+                "language": "html",
+                "path": "./snippets/Components/card.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/dropdown.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/menu.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/message.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/modal.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/navbar.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/pagination.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/panel.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Components/tabs.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/Form/form.json"
+            }
+
+        ]
+    }
+}

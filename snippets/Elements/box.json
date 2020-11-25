@@ -1,0 +1,9 @@
+{
+    "Box":{
+        "prefix":"b_box",
+        "body":[
+            "<div class=\"box\">\n</div>"
+        ],
+        "description":"Basic Box | Bulma"
+    }
+}

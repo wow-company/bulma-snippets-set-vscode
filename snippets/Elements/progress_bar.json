@@ -1,0 +1,10 @@
+{
+    "Progress Bar":{
+        "prefix":"b_progress",
+        "body":[
+            "<progress class=\"progress\" value=\"15\" max=\"100\">15%</progress>"
+        ],
+        "description":"Basic Progress Bar | Bulma"
+    }
+
+}

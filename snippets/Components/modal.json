@@ -1,0 +1,10 @@
+{
+    "Modal":{
+        "prefix":"b_modal",
+        "body":[
+            "<div class=\"modal\">\n  <div class=\"modal-background\"></div>\n  <div class=\"modal-content\">\n    Any other Bulma elements you want\n  </div>\n  <button class=\"modal-close is-large\" aria-label=\"close\"></button>\n</div>\n"
+        ],
+        "description":"Basic Modal | Bulma"
+    }
+    
+}

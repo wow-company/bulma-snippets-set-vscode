@@ -1,0 +1,9 @@
+{
+    "Block":{
+        "prefix":"b_block",
+        "body":[
+            "<div class=\"block\">\n \n</div>"
+        ],
+        "description":"Basic Block | Bulma"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "Panel":{
+        "prefix":"b_panel",
+        "body":[
+            "<nav class=\"panel\">\n  <p class=\"panel-heading\">Repositories</p>\n  <div class=\"panel-block\">\n    <p class=\"control has-icons-left\">\n      <input class=\"input\" type=\"text\" placeholder=\"Search\" />\n      <span class=\"icon is-left\">\n        <i class=\"fas fa-search\" aria-hidden=\"true\"></i>\n      </span>\n    </p>\n  </div>\n  <p class=\"panel-tabs\">\n    <a class=\"is-active\">All</a>\n    <a>Public</a>\n    <a>Private</a>\n    <a>Sources</a>\n    <a>Forks</a>\n  </p>\n  <a class=\"panel-block is-active\">\n    <span class=\"panel-icon\">\n      <i class=\"fas fa-book\" aria-hidden=\"true\"></i>\n    </span>\n    bulma\n  </a>\n  <a class=\"panel-block\">\n    <span class=\"panel-icon\">\n      <i class=\"fas fa-book\" aria-hidden=\"true\"></i>\n    </span>\n    marksheet\n  </a>\n  <a class=\"panel-block\">\n    <span class=\"panel-icon\">\n      <i class=\"fas fa-book\" aria-hidden=\"true\"></i>\n    </span>\n    minireset.css\n  </a>\n  <a class=\"panel-block\">\n    <span class=\"panel-icon\">\n      <i class=\"fas fa-book\" aria-hidden=\"true\"></i>\n    </span>\n    jgthms.github.io\n  </a>\n  <a class=\"panel-block\">\n    <span class=\"panel-icon\">\n      <i class=\"fas fa-code-branch\" aria-hidden=\"true\"></i>\n    </span>\n    daniellowtw/infboard\n  </a>\n  <a class=\"panel-block\">\n    <span class=\"panel-icon\">\n      <i class=\"fas fa-code-branch\" aria-hidden=\"true\"></i>\n    </span>\n    mojs\n  </a>\n  <label class=\"panel-block\">\n    <input type=\"checkbox\" />\n    remember me\n  </label>\n  <div class=\"panel-block\">\n    <button class=\"button is-link is-outlined is-fullwidth\">\n      Reset all filters\n    </button>\n  </div>\n</nav>\n"
+        ],
+        "description":"Basic Panel | Bulma"
+    }
+    
+}

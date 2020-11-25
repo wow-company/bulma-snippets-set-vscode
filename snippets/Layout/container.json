@@ -1,0 +1,30 @@
+{
+    "Container":{
+        "prefix":"b_container",
+        "body":[
+            "<div class=\"container\">\n\n</div>"
+        ],
+        "description":"Container basic | Bulma"
+    },
+    "Container Fluid":{
+        "prefix":"b_container_fluid",
+        "body":[
+            "<div class=\"container is-fluid\">\n\n</div>"
+        ],
+        "description":"Container fluid | Bulma"
+    },
+    "Container Full Width":{
+        "prefix":"b_container_wide",
+        "body":[
+            "<div class=\"container is-widescreen\">\n\n</div>"
+        ],
+        "description":"Container Full Widt | Bulma"
+    },
+    "Container is-fullhd":{
+        "prefix":"b_container_fullhd",
+        "body":[
+            "<div class=\"container is-fullhd\">\n\n</div>"
+        ],
+        "description":"Container Full Width | Bulma"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Button":{
+        "prefix":"b_button",
+        "body":[
+            "<a class=\"button\">Button</a>"
+        ],
+        "description":"Basic Button | Bulma"
+    },
+    "Button Icon":{
+        "prefix":"b_button_icon",
+        "body":[
+            "<a class=\"button\">\n    <span class=\"icon\">\n      <i class=\"fab fa-github\"></i>\n    </span>\n    <span>GitHub</span>\n  </a>"
+        ],
+        "description":"Button With Icon | Bulma "
+    },
+    "Button Group":{
+        "prefix":"b_button_group",
+        "body":[
+            "<div class=\"field is-grouped\">\n  <p class=\"control\">\n    <a class=\"button is-link\">\n      Save changes\n    </a>\n  </p>\n  <p class=\"control\">\n    <a class=\"button\">\n      Cancel\n    </a>\n  </p>\n  <p class=\"control\">\n    <a class=\"button is-danger\">\n      Delete post\n    </a>\n  </p>\n</div>"
+        ],
+        "description":"Button Group | Bulma"
+    },
+    "Button Addons":{
+        "prefix":"b_button_addons",
+        "body":[
+            "<div class=\"field has-addons\">\n  <p class=\"control\">\n    <a class=\"button\">\n      <span class=\"icon is-small\">\n        <i class=\"fas fa-align-left\"></i>\n      </span>\n      <span>Left</span>\n    </a>\n  </p>\n  <p class=\"control\">\n    <a class=\"button\">\n      <span class=\"icon is-small\">\n        <i class=\"fas fa-align-center\"></i>\n      </span>\n      <span>Center</span>\n    </a>\n  </p>\n  <p class=\"control\">\n    <a class=\"button\">\n      <span class=\"icon is-small\">\n        <i class=\"fas fa-align-right\"></i>\n      </span>\n      <span>Right</span>\n    </a>\n  </p>\n</div>\n"
+        ],
+        "description":"Button addons | Bulma"
+    }
+}

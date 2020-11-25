@@ -1,0 +1,9 @@
+{
+    "Section":{
+        "prefix":"b_section",
+        "body":[
+            "<section class=\"section\">\n <div class=\"container\">\n  <h1 class=\"title\"></h1>\n  <h2 class=\"subtitle\"></h2>\n </div>\n</section>"
+        ],
+        "description":"Basic Section | Bulma"
+    }
+}

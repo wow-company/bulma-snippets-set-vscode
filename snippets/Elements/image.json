@@ -1,0 +1,9 @@
+{
+    "Image":{
+        "prefix":"b_img",
+        "body":[
+            "<figure class=\"image\">\n <img src=\"\">\n</figure>"
+        ],
+        "description":"Basic Image | Bulma"
+    }
+}
